@@ -4,6 +4,7 @@
     "com.unity.ai.assistant": "2.20.0-pre.2",
     "com.unity.ai.inference": "2.6.1",
     "com.unity.ai.navigation": "2.0.9",
+    "com.unity.cloud.gltfast": "6.20.0",
     "com.unity.collab-proxy": "2.10.0",
     "com.unity.device-simulator.devices": "1.0.1",
     "com.unity.ide.rider": "3.0.38",
@@ -16,6 +17,7 @@
     "com.unity.visualscripting": "1.9.7",
     "com.unity.xr.openxr": "1.16.1",
     "com.unity.modules.assetbundle": "1.0.0",
-    "com.unity.modules.physics2d": "1.0.0"
+    "com.unity.modules.physics2d": "1.0.0",
+    "com.unity.pipeline": "0.9.1-exp.1"
   }
 }

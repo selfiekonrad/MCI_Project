@@ -112,3 +112,12 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Asset-Store-Pakete: Die Lizenz erlaubt kein öffentliches Hochladen.
+# Jeder im Team importiert sie selbst über den Package Manager (siehe Assets/GreyBox/README.md).
+/[Aa]ssets/DenysAlmaral/
+/[Aa]ssets/DenysAlmaral.meta
+/[Aa]ssets/(PBR) Low-Grow Flora/
+/[Aa]ssets/(PBR) Low-Grow Flora.meta
+/[Aa]ssets/Free/
+/[Aa]ssets/Free.meta
